@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Derrick Asimwe  
-Full Stack Web Developer | Javascript | React | NodeJS | Express | MongoDB 
+Full Stack Web Developer | Javascript | React | Next.JS | Typescript | NodeJS | Express | MongoDB | 
 
 In Aug 2023, I embarked on a transformative journey from zero to mastery in Web Development! enrolled in an immersive Fullstack Web Developer Bootcamp that covers a comprehensive range of technologies. 
 💻 Mastering the fundamentals of HTML, CSS, and JavaScript, and delving into advanced practices like React for dynamic user interfaces. 
