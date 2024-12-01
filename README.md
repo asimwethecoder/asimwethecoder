@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Derrick Asimwe  
-Full Stack Web Developer | Javascript | React | Next.JS | Typescript | NodeJS | Express | MongoDB | 
+Full Stack Web Developer | Javascript | React | Next.JS | Typescript | NodeJS | Express | MongoDB | AWS Cloud Certified Practitioner
 
 In Aug 2023, I embarked on a transformative journey from zero to mastery in Web Development! enrolled in an immersive Fullstack Web Developer Bootcamp that covers a comprehensive range of technologies. 
 💻 Mastering the fundamentals of HTML, CSS, and JavaScript, and delving into advanced practices like React for dynamic user interfaces. 
@@ -10,7 +10,7 @@ In Aug 2023, I embarked on a transformative journey from zero to mastery in Web 
 🔧 Additionally, honing skills in cybersecurity by becoming a Bug Bounty Hunter—learning penetration testing from scratch, utilizing modern tools, and implementing best practices. Ready to hack websites, fix vulnerabilities, and enhance web security. 
 Skills: AWS Lambda · Progressive Web Applications (PWAs) · Redux.js · Redis · Architecture · Node.js · Express.js · Penetration Testing · Continuous Integration and Continuous Delivery (CI/CD) · docker · Data Structures · Algorithms · JSON · React.js · Responsive Web Design · Web Development · Code Review · GitHub · HTML · Cascading Style Sheets (CSS) · Bootstrap (Framework) · JavaScript  
 * 🌍  I'm based in Johannesburg * 
-✉️  You can contact me at [skyblueasimwe@gmail.com](mailto:skyblueasimwe@gmail.com) * 🤝  I'm open to collaborating on Interestesting projects
+✉️  You can contact me at [skyblueasimwe@gmail.com](mailto:skyblueasimwe@gmail.com) * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/asimwethecoder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/asimwethecoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
