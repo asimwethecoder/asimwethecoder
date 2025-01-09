@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Derrick Asimwe
-## Full Stack Developer | JavaScript | React | Next.js | TypeScript | Node.js | Express | MongoDB | AWS Certified Cloud Practitioner
+## Full Stack Developer | JavaScript | React | Next.js | TypeScript | Node.js | Express | MongoDB | 2 x AWS 
 
 As a seasoned full-stack developer with expertise in crafting seamless user experiences, I bridge the gap between innovative design and robust technology. With a strong foundation in React.js, Next.js, Node.js, MongoDB, and more, I excel in developing scalable, secure, and high-performance web and mobile applications.
 
@@ -13,9 +13,9 @@ As a seasoned full-stack developer with expertise in crafting seamless user expe
 - Back-end proficiency: Node.js, Express.js, MongoDB, API development
 - Toolset: GitHub, Docker, VS Code, AWS
 - Agile methodologies and quality engineering principles
-- Cloud certifications: AWS Certified Cloud Practitioner
+- Cloud certifications: AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
 ### What Drives Me:
-I'm passionate about staying ahead of the curve, constantly expanding my skill set to meet the evolving demands of the tech landscape. Currently, I am exploring additional AWS Certifications and DevOps to further enhance my capabilities.
+I'm passionate about staying ahead of the curve, and constantly expanding my skill set to meet the evolving demands of the tech landscape. I am exploring additional AWS Certifications and DevOps to further enhance my capabilities.
 
 ### Collaboration & Opportunities:
 I thrive in dynamic environments, working closely with developers, UX designers, and business partners to deliver top-tier solutions. If you're seeking a dedicated developer to elevate your projects and team, let's connect. I'm open to exciting full-time job opportunities, collaborations, and innovative ventures.
