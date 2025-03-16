@@ -10,7 +10,7 @@ As a seasoned full-stack developer with expertise in crafting seamless user expe
 ### Key Strengths:
 
 - Front-end expertise: HTML, CSS, JavaScript, React.js, Next.js, SEO principles
-- Back-end proficiency: Node.js, Express.js, MongoDB, API development
+- Back-end proficiency: Node.js, Express.js, MongoDB, Rest API, GraphQL, Apollo Server and Client, DynamoDB
 - Toolset: GitHub, Docker, VS Code, AWS
 - Agile methodologies and quality engineering principles
 - Cloud certifications: AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
